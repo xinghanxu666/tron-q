@@ -13,7 +13,7 @@
 ## 使用说明
 
 命令格式: `/tron [波场地址]`
-示例: `/tron TYmc3r6uVohbWg7VbJp8JzKX2uL5aM3s4B`
+示例: `/tron TBQpETG8uJrktewhv832m7wSKmvMUUsZCm`
 
 帮助命令: `/tron.help`
 
