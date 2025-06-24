@@ -23,7 +23,7 @@
 
 1. 在AstrBot管理面板中，找到插件管理。
 2. 点击`tron_address`插件的配置。
-3. 在`TRONGRID API密钥`一栏中填入您的密钥（在https://trongrid.io/注册并获取）。
+3. 在`TRONGRID API密钥`一栏中填入您的密钥（在https://trongrid.io/ 注册并获取）。
 4. 保存配置。
 
 ## 支持
